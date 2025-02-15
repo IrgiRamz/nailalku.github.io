@@ -149,7 +149,7 @@ const animationTimeline = () => {
       ".idea-6 span",
       0.8,
       {
-        scale: 1.5,
+        scale: 0.9,
         opacity: 0,
         rotation: 15,
         ease: Expo.easeOut,
@@ -160,7 +160,7 @@ const animationTimeline = () => {
       ".idea-6 span",
       0.8,
       {
-        scale: 1.5,
+        scale: 0.9,
         opacity: 0,
         rotation: -15,
         ease: Expo.easeOut,
